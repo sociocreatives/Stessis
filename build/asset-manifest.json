@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e5a11cc1.css",
+    "main.js": "/static/js/main.8fc4b2df.js",
+    "static/js/787.bb6517ef.chunk.js": "/static/js/787.bb6517ef.chunk.js",
+    "static/media/landing.jpg": "/static/media/landing.dec26d78e7c5cd72c8a0.jpg",
+    "static/media/tops.jpg": "/static/media/tops.e6b5ac51bc09ac04a2d9.jpg",
+    "static/media/landing2.jpg": "/static/media/landing2.1ab1c5b658219ad5f75b.jpg",
+    "static/media/doc.jpg": "/static/media/doc.153ebfb94617cffc44fb.jpg",
+    "static/media/login_imagebg.jpg": "/static/media/login_imagebg.f94ad2f6b1641f5ca59b.jpg",
+    "static/media/stessis_original.png": "/static/media/stessis_original.2de085ab78429ff91312.png",
+    "static/media/stessis_white.png": "/static/media/stessis_white.526070a68de5b344b986.png",
+    "static/media/news1.jpeg": "/static/media/news1.794b139796f0f9213002.jpeg",
+    "static/media/news3.jpeg": "/static/media/news3.5e5b03257c1a7e319c28.jpeg",
+    "static/media/news2.jpeg": "/static/media/news2.9770d91d5afc2c9f15d1.jpeg",
+    "static/media/patient.svg": "/static/media/patient.cd731f9530e18dbc4ab21d1409ad0b89.svg",
+    "static/media/doctor_1.svg": "/static/media/doctor_1.755de995fc6661d3f0312005a1264d7d.svg",
+    "index.html": "/index.html",
+    "main.e5a11cc1.css.map": "/static/css/main.e5a11cc1.css.map",
+    "main.8fc4b2df.js.map": "/static/js/main.8fc4b2df.js.map",
+    "787.bb6517ef.chunk.js.map": "/static/js/787.bb6517ef.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e5a11cc1.css",
+    "static/js/main.8fc4b2df.js"
+  ]
+}
